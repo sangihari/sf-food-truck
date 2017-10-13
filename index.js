@@ -1,4 +1,4 @@
-var apiKey = require('./config.json').app_token
+var apiKey = require('./config.json').app_token;
 var request = require('request');
 var columnify = require('columnify');
 
