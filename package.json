@@ -1,0 +1,15 @@
+{
+  "name": "sf-food-truck",
+  "version": "1.0.0",
+  "description": "A simple commandline program that will print out a list of food trucks from SF Government API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sangeetha Natarajan",
+  "license": "ISC",
+  "dependencies": {
+    "columnify": "^1.5.4",
+    "request": "^2.83.0"
+  }
+}
